@@ -8,3 +8,4 @@ Ready to use template with pre-made features :
 - CORS POLICY
 - SANCTUM
 - IMAGE INTERVENTION
+- DOCKER / SAIL INSTALLED
